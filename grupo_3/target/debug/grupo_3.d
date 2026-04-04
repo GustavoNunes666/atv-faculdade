@@ -1,0 +1,1 @@
+C:\Users\Ultim\Downloads\tads\grupo_3\target\debug\grupo_3.exe: C:\Users\Ultim\Downloads\tads\grupo_3\src\buffer.rs C:\Users\Ultim\Downloads\tads\grupo_3\src\impressora.rs C:\Users\Ultim\Downloads\tads\grupo_3\src\main.rs C:\Users\Ultim\Downloads\tads\grupo_3\src\prioridade.rs C:\Users\Ultim\Downloads\tads\grupo_3\src\queue.rs
